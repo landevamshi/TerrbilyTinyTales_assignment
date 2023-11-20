@@ -1,0 +1,18 @@
+.arrange-boxes {
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+}
+.info-box {
+    border: 2px solid grey;
+    border-radius: 5px;
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+    color: grey;
+    font-weight: bold;
+}
+.info-box-name {
+    font-size: small;
+    text-align: center;
+}
